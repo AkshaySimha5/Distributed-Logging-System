@@ -16,5 +16,5 @@
 
 ### Tools Used
 - ![Fluentd](https://raw.githubusercontent.com/fluent/fluentd/master/logos/fluentd-logo.png) **Fluentd**: Log forwarding and aggregation.
-- ![Kafka](https://kafka.apache.org/images/kafka-logo.png) **Kafka**: Distributed log processing and Pub-Sub messaging.
-- ![Elasticsearch](https://www.elastic.co/static/images/elastic-logo-200.png) **Elasticsearch**: Log indexing and search.
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) **Kafka**: Distributed log processing and Pub-Sub messaging.
+- ![Elasticsearch]([https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white](https://www.fluentd.org/images/miscellany/fluentd-logo_2x.png)) **Elasticsearch**: Log indexing and search.

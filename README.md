@@ -16,5 +16,5 @@
 
 ### Tools Used
 - **Fluentd**: Log forwarding and aggregation.
-- **Kafka**: Distributed log processing and Pub-Sub messaging.
+- **Apache Kafka**: Distributed log processing and Pub-Sub messaging.
 - **Elasticsearch**: Log indexing and search.
